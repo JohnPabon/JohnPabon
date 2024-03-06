@@ -5,9 +5,6 @@
   <img align="center"  src="https://github.com/JohnPabon/JohnPabon/blob/main/assets/img/banner.jpeg" />
 </p>
 
-### Social Networks:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-pabon-893)  
-
 ### 🛠️ Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
